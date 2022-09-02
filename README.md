@@ -1,4 +1,4 @@
-# League Sandbox Game Server
+# League Sandbox
 
 **This repository is now closed to further contributions**
 
